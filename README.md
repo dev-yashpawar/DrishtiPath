@@ -1,5 +1,8 @@
 # DrishtiPath
 
+Link
+https://drishtipath.onrender.com/  
+
 Navigate Kumbh using what you can see. This MERN prototype combines English/Hindi visual scanning with an interactive Nashik–Trimbakeshwar landmark map.
 
 ## Run locally
